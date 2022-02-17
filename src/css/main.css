@@ -200,6 +200,11 @@ h2 {
   font-weight: 500; }
 
 @media screen and (max-width: 768px) {
+  #pricing-sheet td {
+    font-size: 10px;
+    font-weight: 600; }
+  #pricing-sheet .btn-sm {
+    font-size: 10px; }
   #custom-content {
     position: initial !important; }
     #custom-content .container {
